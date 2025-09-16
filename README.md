@@ -4,7 +4,6 @@ Data analyst crafting clear, impactful insights. I build end‑to‑end analytic
 MD Adnan Qamar - Data Analyst & SQL Developer Portfolio
 This repository contains the source code for my personal portfolio website. It is a fully responsive, single-page application designed to showcase my skills, projects, and professional experience as a Data Analyst and SQL Developer.
 
-Live Demo: portfolio.example.com
 
 ## Description
 This portfolio is built from scratch using modern web technologies to create a sleek, professional, and interactive user experience. The design features a dark-themed "glassmorphism" aesthetic with glowing accents, reflecting a modern, tech-savvy brand. The primary goal of this site is to serve as a dynamic resume and a central hub for my professional work, providing potential employers with a comprehensive look at my capabilities.
